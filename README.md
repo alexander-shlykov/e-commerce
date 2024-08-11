@@ -2,7 +2,7 @@
 В рамках проекта нужно было провести анализ поведения пользователей интернет магазина, а также ответить на вопросы о логистике и самых часто покупаемых товарах.
 
 ### Стек проекта:  
-<img src="https://img.shields.io/badge/PYTHON-FFFFFF?style=for-the-badge&logo=python" /> <img src="https://img.shields.io/badge/pandas-FFFFFF?style=for-the-badge&logo=pandas&logoColor=3776AB" /> <img src="https://img.shields.io/badge/jupyter notebook-FFFFFF?style=for-the-badge&logo=jupyter&logoColor=F37626" />  
+Проект выполнен с помощью **Python** (билиотека: **Pandas**) в **Jupyter Notebook**.
 ___
 ### Задачи проекта:
 1. Ответить на следующие вопросы:
